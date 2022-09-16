@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Stanley Reed",
+            "title": "Russia halts natural gas flows to Germany again. - The New York Times",
+            "description": "Gazprom said the Nord Stream 1 pipeline would undergo three days of maintenance, raising worries about a complete shutdown of Russian gas deliveries to Germany.",
+            "url": "https://www.nytimes.com/2022/08/30/business/russia-natural-gas-germany.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/30/multimedia/30gazprom1/30gazprom1-facebookJumbo.jpg",
+            "publishedAt": "2022-08-31T06:14:00Z",
+            "content": "So far, the results have been mixed. German gas storage facilities have reached more than 83 percent of capacity and appear likely to meet the governments goal of 90 percent by Nov. 1.\r\nOn the other … [+891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX launches 46 Starlink satellites, lands rocket at sea - Space.com",
+            "description": "It was SpaceX's 39th launch of 2022.",
+            "url": "https://www.space.com/spacex-starlink-group-3-4-launch-rocket-landing",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zJb6yAAbTS3xuZiNUTEcLZ-1200-80.jpeg",
+            "publishedAt": "2022-08-31T05:58:18Z",
+            "content": "Another day, another Starlink launch.\r\nA SpaceX\r\n Falcon 9 rocket lifted off from Vandenberg Space Force Base in California on Wednesday (Aug. 31) at 1:40 a.m. EDT (0540 GMT; 10:40 p.m. local Califor… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sadie Gurman, Jan Wolfe and Alex Leary",
+            "title": "DOJ Points to Likely Obstruction in Investigation of Documents at Trump’s Mar-a-Lago - The Wall Street Journal",
+            "description": "The Justice Department said “efforts were likely taken to obstruct the government’s investigation” of documents at former President Donald Trump’s Mar-a-Lago home months before FBI agents searched the Florida estate.",
+            "url": "https://www.wsj.com/articles/donald-trump-bolsters-florida-legal-team-11661870344",
+            "urlToImage": "https://images.wsj.net/im-613182/social",
+            "publishedAt": "2022-08-31T05:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kherson: 'Heavy fighting' as Ukraine seeks to retake Russian-held region - BBC",
+            "description": "Military experts tell the BBC the battle for the southern region could go on for months.",
+            "url": "https://www.bbc.com/news/world-europe-62730439",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10AD9/production/_126531386_8df62cef-b315-4e57-bcb3-917f1d624b9b.jpg",
+            "publishedAt": "2022-08-31T04:46:09Z",
+            "content": "By Yaroslav LukovBBC News\r\nFierce battles have been reported as Ukraine tries to retake the Russian-occupied southern Kherson region - but military experts have told the BBC it \"won't happen quickly\"… [+3953 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "New study could unearth the secret to how 'immortal jellyfish' reverses aging - CNN",
+            "description": "Scientists in Spain have unlocked the genetic code of the \"immortal jellyfish\" -- a creature capable of repeatedly reverting into a juvenile state -- in hopes of unearthing the secret to their unique longevity, and find new clues to human aging.",
+            "url": "https://www.cnn.com/2022/08/31/europe/immortal-jellyfish-study-spain-scn-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220830215919-jellyfish-immortal-secrets.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-08-31T04:34:00Z",
+            "content": "Scientists in Spain have unlocked the genetic code of the immortal jellyfish a creature capable of repeatedly reverting into a juvenile state in hopes of unearthing the secret to their unique longevi… [+2097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Roni Caryn Rabin",
+            "title": "US Life Expectancy Falls Again in ‘Historic’ Setback - The New York Times",
+            "description": "The decline during the pandemic is the sharpest in nearly 100 years, hitting American Indian and Native Alaskan communities particularly hard.",
+            "url": "https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/31/science/31life-expectancy1/31life-expectancy1-facebookJumbo.jpg",
+            "publishedAt": "2022-08-31T04:01:08Z",
+            "content": "Average life expectancy in these populations is now lower than that of every country in the Americas except Haiti, which is astounding, said Noreen Goldman, professor of demography and public affairs… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Christopher Clarey",
+            "title": "For Venus and Serena Williams at the U.S. Open, Day and Night Experiences - The New York Times",
+            "description": "Unlike her sister, Venus was not prepared to deal with questions about her tennis future after a loss in the first round of the singles tournament. “I’m just focused on the doubles,” she said.",
+            "url": "https://www.nytimes.com/2022/08/31/sports/tennis/venus-williams-serena-us-open.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/31/multimedia/31usopen-venus2/31usopen-venus2-facebookJumbo.jpg",
+            "publishedAt": "2022-08-31T04:01:05Z",
+            "content": "At this stage, having missed nearly a year of action because of injury before returning in July, she has a world ranking of 1,504.\r\nIt was definitely the longest time I have been away from tennis and… [+1408 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Colby Itkowitz",
+            "title": "Republicans in key races scrap online references to Trump, abortion - The Washington Post",
+            "description": "Attempts by Republicans in competitive contests to pivot away from these issues have emboldened Democrats to mount an aggressive offense.",
+            "url": "https://www.washingtonpost.com/politics/2022/08/30/republicans-abortion-trump-online/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6Q2J52QVGUI63BECA3A4QTHI6I.jpg&w=1440",
+            "publishedAt": "2022-08-31T03:10:00Z",
+            "content": "Comment on this story\r\nYesli Vega, a Republican running for the U.S. House in a competitive Virginia district, no longer mentions her connection to former president Donald Trump in the bio section at… [+10979 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Susannah Cullinane, Laura Smith-Spark",
+            "title": "Mikhail Gorbachev, former Soviet president who took down the Iron Curtain, dies - CNN",
+            "description": "Mikhail Gorbachev -- the last leader of the former Soviet Union from 1985 until 1991 -- has died at the age of 91.",
+            "url": "https://www.cnn.com/2022/08/30/europe/mikhail-gorbachev-dies-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220830134307-gobachev-lead-image.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-08-31T03:09:00Z",
+            "content": "Mikhail Gorbachev the last leader of the former Soviet Union from 1985 until 1991 has died at the age of 91.\r\nGorbachev died after a long illness, Russian state news agencies reported.\r\nMikhail Serge… [+10141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Tyrese Ordered to Pay $10k/Month in Child Support - TMZ",
+            "description": "Tyrese is now officially single, and he will be heavily investing in his child's future ... that's how the judge advised him to view the $10k he'll be paying monthly in child support going forward.",
+            "url": "https://www.tmz.com/2022/08/30/tyrese-child-support-divorce-samantha-gibson-court-judge-10-thousand-dollars-monthly/",
+            "urlToImage": "https://imagez.tmz.com/image/c4/16by9/2022/08/31/c4ea43a572dc4811a58c8d08942fac7d_xl.jpg",
+            "publishedAt": "2022-08-31T03:06:00Z",
+            "content": "Tyrese is now officially single, and he will be heavily investing in his child's future ... that's how the judge advised him to view the $10k he'll be paying monthly in child support going forward.\r\n… [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Engineers Solve Data Glitch on NASA’s Voyager 1 – But There’s Still a Problem - SciTechDaily",
+            "description": "An issue affecting data from NASA's Voyager 1 spacecraft has been repaired by engineers. Earlier this year, the probe's attitude articulation and control system (AACS), which keeps Voyager 1's antenna pointed at Earth, started sending jumbled information abou…",
+            "url": "https://scitechdaily.com/engineers-solve-data-glitch-on-nasas-voyager-1-but-theres-still-a-problem/",
+            "urlToImage": "https://scitechdaily.com/images/Voyager-Spacecraft-Traveling-Through-Space.jpg",
+            "publishedAt": "2022-08-31T02:40:08Z",
+            "content": "ByJet Propulsion LaboratoryAugust 30, 2022\r\nAn artists concept shows the Voyager spacecraft traveling through space against a field of stars. Credit: NASA/JPL-Caltech\r\nAn issue affecting data from NA… [+2704 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cataclysmic floods in Pakistan kill 1100, including 380 children - Reuters",
+            "description": "Torrential rains and flooding have submerged a third of Pakistan and killed more than 1,100 people, including 380 children as the United Nations appealed for aid on Tuesday for what it described as an \"unprecedented climate catastrophe.\"",
+            "url": "https://www.reuters.com/world/asia-pacific/un-issues-flash-appeal-160-million-help-pakistan-with-floods-2022-08-30/",
+            "urlToImage": "https://www.reuters.com/resizer/cCEjXF56iUURpGF9B1Ledt8vt3c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XMJRSENPNZJH7DALU7YJOOJTWU.jpg",
+            "publishedAt": "2022-08-31T01:55:00Z",
+            "content": "CHARSADDA, Pakistan, Aug 30 (Reuters) - Torrential rains and flooding have submerged a third of Pakistan and killed more than 1,100 people, including 380 children as the United Nations appealed for a… [+5524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 NFL final roster cuts: 32 takeaways include pressure on Trey Lance, Eagles upgrade, and more - CBS Sports",
+            "description": "Some of the biggest developments of cutdown day",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-final-roster-cuts-32-takeaways-include-pressure-on-trey-lance-eagles-upgrade-and-more/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/15/d442eb96-b72b-40f8-8cd6-3556509c73b3/thumbnail/1200x675/701a552c751cbf14de815f516c70fb65/trey-lance-1400-us.jpg",
+            "publishedAt": "2022-08-31T01:54:45Z",
+            "content": "The 2022 NFL preseason is in the rear view, and now all 32 teams have finalized their rosters for the regular season. \"Finalized\" is a loose word here, considering lineups will be tweaked from now un… [+8675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WESH Orlando"
+            },
+            "author": "Scott Heidler",
+            "title": "Next Artemis 1 launch attempt scheduled for Saturday - WESH 2 Orlando",
+            "description": "NASA has officially rescheduled the Artemis 1 launch.",
+            "url": "https://www.wesh.com/article/artemis-engine-issue/41032508",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/714f1a09-8adb-40b4-a4d8-dee11254cc31/714f1a09-8adb-40b4-a4d8-dee11254cc31_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-08-31T00:40:00Z",
+            "content": "BREVARD COUNTY, Fla. —UPDATE: Get excited! NASA officials said in an update Tuesday that the next attempt to launch Artemis 1 will happen on Saturday, Sept. 3, from the Kennedy Space Center.\r\nThe lau… [+1396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Market Rally Finished? Indexes Break Support As Fed Fears Intensify | Investor's Business Daily - Investor's Business Daily",
+            "description": "Recent breakouts fizzle as Fed rate-hike fears intensify.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-breaks-lower-as-jobs-report-intensifies-fed-rate-hike-fears/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/01/Stock-beardestroying-01-adobe.jpg",
+            "publishedAt": "2022-08-31T00:24:00Z",
+            "content": "Dow Jones futures rose modestly overnight, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally came under further pressure Tuesday, with the major indexes all falling below thei… [+9617 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amir Vera, Jason Hanna and Nouran Salahieh, CNN",
+            "title": "The water crisis in Jackson, Mississippi, has gotten so bad, the city temporarily ran out of bottled water to give to residents - CNN",
+            "description": "Recent torrential rain coupled with years of water system issues have resulted in a crisis in Jackson, Mississippi, where the city doesn't have enough water to fight fires, flush toilets or even hand out to residents in need.",
+            "url": "https://www.cnn.com/2022/08/30/us/jackson-water-system-failing-tuesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220830002438-jackson-mississippi-water-super-tease.jpg",
+            "publishedAt": "2022-08-31T00:16:00Z",
+            "content": "(CNN)Recent torrential rain coupled with years of water system issues have resulted in a crisis in Jackson, Mississippi, where the city doesn't have enough water to fight fires, flush toilets or even… [+12083 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Andrew Tangel and Gordon Lubold",
+            "title": "U.S. Army Grounds Entire Fleet of Chinook Helicopters - The Wall Street Journal",
+            "description": "The Army has grounded its entire fleet of CH-47 Chinook helicopters because of a risk of engine fires, U.S. officials said. Army officials are aware of a small number of engine fires with the helicopters, and the incidents didn’t result in any injuries or dea…",
+            "url": "https://www.wsj.com/articles/u-s-army-grounds-entire-fleet-of-chinook-helicopters-11661894466",
+            "urlToImage": "https://images.wsj.net/im-613660/social",
+            "publishedAt": "2022-08-31T00:09:00Z",
+            "content": "The U.S. Army has grounded its entire fleet of CH-47 Chinook helicopters because of a risk of engine fires, U.S. officials said.\r\nArmy officials are aware of a small number of engine fires with the h… [+154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Silver And Black Pride"
+            },
+            "author": "Bill Williamson",
+            "title": "Raiders news: Notes on roster cuts - Silver And Black Pride",
+            "description": "Notes and tidbits on Las Vegas’ 53-man roster",
+            "url": "https://www.silverandblackpride.com/2022/8/30/23329728/raiders-news-roster-cuts-2022-nfl",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6XUQRIAV-Dym3tBl-wrm4YiAj3c=/0x318:4443x2644/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23983767/1418326360.jpg",
+            "publishedAt": "2022-08-30T23:50:40Z",
+            "content": "The Las Vegas Raiders have set their initial 53-man roster (plenty of changes to come), so lets look at some aspects of the first roster:\r\n<ul><li>While the Raiders have a strong core of top-tier tal… [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Hurubie Meko",
+            "title": "West Point Has a K.K.K. Plaque Mounted Above Entrance to Science Hall - The New York Times",
+            "description": "A special congressional commission that recommends the removal of Confederate symbols at U.S. military sites flagged the bronze plaque in a new report.",
+            "url": "https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/30/nyregion/30west-point-1-copy/30west-point-1-facebookJumbo.jpg",
+            "publishedAt": "2022-08-30T23:15:04Z",
+            "content": "The Naming Commission, established by the National Defense Authorization Act of 2021 following a national outcry over the killing of George Floyd by the Minneapolis police in 2020, suggested new name… [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Fenit Nirappil",
+            "title": "Monkeypox death reported in Texas patient; virus link unclear - The Washington Post",
+            "description": "Health officials said the Harris County resident who died Sunday was a severely immunocompromised adult who had various serious illnesses.",
+            "url": "https://www.washingtonpost.com/health/2022/08/30/first-monkeypox-death-texas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VRL4HUBINYI63KIK7TSACXP4R4.jpg&w=1440",
+            "publishedAt": "2022-08-30T23:15:00Z",
+            "content": "Comment on this story\r\nAuthorities are investigating the death of a person diagnosed with monkeypox in Texas to determine if it is the first known U.S. fatality in an outbreak declared a national eme… [+2723 chars]"
+        }
+    ]
+}
