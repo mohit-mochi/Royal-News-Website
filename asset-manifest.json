@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Royal-News-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Royal-News-Website/static/js/main.0dec70da.js",
+    "static/js/787.fc9d613c.chunk.js": "/Royal-News-Website/static/js/787.fc9d613c.chunk.js",
+    "index.html": "/Royal-News-Website/index.html",
+    "main.073c9b0a.css.map": "/Royal-News-Website/static/css/main.073c9b0a.css.map",
+    "main.0dec70da.js.map": "/Royal-News-Website/static/js/main.0dec70da.js.map",
+    "787.fc9d613c.chunk.js.map": "/Royal-News-Website/static/js/787.fc9d613c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0dec70da.js"
+  ]
+}
